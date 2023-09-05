@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svgjs="http://svgjs.com/svgjs"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+	 style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFA633;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000137124154993611572700000006062331709670256035_);}
+</style>
+<g>
+	<path class="st0" d="M61.6,621.3c-40,0-42,0-36-40c10-96,52-178,122-240c76-66,166-100,268-94c98,6,182,44,250,116
+		c10,10,18,14,32,12c138-16,256,78,276,204c6,44,8,42-34,42c-6,0-14,0-20,0c-14,2-18-6-20-18c-14-110-118-178-222-144
+		c-20,8-30,2-42-14c-72-98-192-140-308-112c-114,28-202,124-220,242c0,2,0,6,0,8C99.6,621.3,99.6,621.3,61.6,621.3z"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="922.6141" y1="306.9307" x2="928.642" y2="306.9307" gradientTransform="matrix(1 0 0 -1 0 992.9873)">
+			<stop  offset="4.960318e-04" style="stop-color:#302F2F"/>
+			<stop  offset="1" style="stop-color:#302F2F"/>
+		</linearGradient>
+		<path class="st1" d="M731.6,753.3c-62,0-120-44-132-104c-6-26-4-30,24-30c2,0,6,0,8,0c22-2,36,0,42,28c6,24,34,38,58,38
+			c26,0,52-18,58-46c4-18,12-22,28-20c2,0,4,0,6,0c46,0,46,0,30,46C837.6,717.3,787.6,753.3,731.6,753.3z"/>
+		
+			<linearGradient id="SVGID_00000023274757945797905660000010755637467152213899_" gradientUnits="userSpaceOnUse" x1="922.6141" y1="309.4725" x2="928.642" y2="309.4725" gradientTransform="matrix(1 0 0 -1 0 992.9873)">
+			<stop  offset="4.960318e-04" style="stop-color:#302F2F"/>
+			<stop  offset="1" style="stop-color:#302F2F"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_00000023274757945797905660000010755637467152213899_);" d="M187.6,617.3c18-4,30,2,36,26
+			s34,40,60,40c26-2,50-20,58-46c4-16,12-22,26-20c2,0,4,0,6,0c46,0,48,4,32,48c-20,56-80,92-138,86c-60-6-108-52-118-112
+			c-2-18,0-26,20-24C173.6,617.3,177.6,617.3,187.6,617.3z"/>
+	</g>
+</g>
+</svg>
